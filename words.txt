@@ -1,0 +1,6 @@
+course
+python
+school
+class
+teach
+learn
