@@ -1,2 +1,2 @@
 # python_wordle
-unfinished recreation of wordle in python using topics covered in CP1850
+Skeleton of a python wordle app (no game logic)
